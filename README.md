@@ -6,6 +6,10 @@ change method of video stream from the original to opencv and let EmbeddedTM2 co
 # 介紹
 Embedded Teachable Machine是Google在推出Coral USB Accelerator時所設計搭配的一個小專案，可透過按鈕來執行拍照並且即時進行圖片分類，少量的資料就可以完成訓練，此篇除了介紹、使用之外也嘗試修改成OpenCV的方式去運行，並加入了重新載入資料的功能。更多詳細介紹請至[此處](https://www.rs-online.com/designspark/google-coral-usb-acceleratorraspberry-pi4embedded-teachable-machine-2-cn)
 
+1. 介紹 Embedded Teachable Machine 
+2. 使用 Raspiberry Pi4 與 Google Coral 運行Embedded Teachable Machine
+3. 修改 Embedded Teachable Machine : 改成OpenCV方式、增加功能 ( 重新載入數據 )
+
 # 程式
 | 名稱  | 描述  |
 | --- | --- |
